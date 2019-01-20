@@ -13,7 +13,7 @@ Je réalise actuellement une thèse de mathématiques au sein du laboratoire de 
 # Publications scientifiques
 ## Pré-publications
 
-1. Pierre Degond, Sara Merino-Aceituno, Fabien Vergnet, Hui Yu : *Coupled Self-Organized Hydrodynamics and Stokes models for suspensions of active particles. Soumis. [Manuscrit sur arXiv](https://arxiv.org/abs/1706.05666)*.
+1. Pierre Degond, Sara Merino-Aceituno, Fabien Vergnet, Hui Yu : *Coupled Self-Organized Hydrodynamics and Stokes models for suspensions of active particles.* A paraitre dans le Journal of Mathematical Fluid Mechanics. [Manuscrit sur arXiv](https://arxiv.org/abs/1706.05666).
 
 ## Travaux en cours
 
@@ -53,5 +53,5 @@ Je réalise actuellement une thèse de mathématiques au sein du laboratoire de 
 - Calcul scientifique. L3 mathématiques. TP : 2015-16 (18h) \| 2016-17 (18h)
 
 **Encadrement d'étudiants**
-- Tomas Fullana (L3). Numerical simulations of fluid-structure problems. Application to the mocuciliary transport. (Juin-Juillet 2017)
+- Tomas Fullana (L3). *Numerical simulations of fluid-structure problems. Application to the mocuciliary transport.* (Juin-Juillet 2017)
 
