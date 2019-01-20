@@ -11,7 +11,7 @@ Je réalise actuellement une thèse de mathématiques au sein du laboratoire de 
 - Méthodes de domaine fictif pour la résolution d'EDP.
 
 # Publications scientifiques
-## Pré-publications
+## Publications
 
 1. Pierre Degond, Sara Merino-Aceituno, Fabien Vergnet, Hui Yu : *Coupled Self-Organized Hydrodynamics and Stokes models for suspensions of active particles.* A paraitre dans le Journal of Mathematical Fluid Mechanics. [Manuscrit sur arXiv](https://arxiv.org/abs/1706.05666).
 
