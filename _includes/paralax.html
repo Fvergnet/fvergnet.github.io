@@ -1,0 +1,25 @@
+<style>
+.parallax {
+  /* The image used */
+  background-image: url("../assets/cover.jpg");
+
+  /* Set a specific height */
+  min-height: 300px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+<header>
+<div class="parallax">
+	  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <div class="site-title" rel="author" >{{ site.title | escape }}</div>
+
+  </div>
+</div>
+</header>

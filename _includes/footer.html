@@ -1,0 +1,39 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ "Contact" | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+		  LMO, Université Paris-Saclay
+            </li>
+            {%- if site.emailLMO -%}
+            <li><a class="u-email" href="mailto:{{ site.emailLMO }}">{{ site.emailLMO }}</a></li>
+            {%- endif -%}
+	    <li> Bureau 2A1 </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <ul class="contact-list">
+          <li class="p-name">
+		  MAP, Université Paris-Descartes 
+            </li>
+            {%- if site.emailMAP5 -%}
+            <li><a class="u-email" href="mailto:{{ site.emailMAP5 }}">{{ site.emailMAP5 }}</a></li>
+            {%- endif -%}
+	    <li> Bureau 750 </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</footer>
