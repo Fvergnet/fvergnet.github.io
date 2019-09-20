@@ -7,7 +7,7 @@ layout: home
 
 ## collapsible markdown?
 
-<details><summary>CLICK ME</summary>
+<details><summary># Titre</summary>
 <p>
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue sagittis nisi in tempus. Quisque et orci sodales, efficitur lacus scelerisque, cursus massa. Proin in ex purus. Sed pharetra porta sagittis. Nullam viverra mauris nisl, quis consequat velit laoreet vestibulum. Donec congue feugiat libero, et bibendum lacus auctor in. Nam sagittis efficitur dui, vel dictum elit cursus tempus. Cras malesuada, neque sit amet dignissim aliquam, odio purus laoreet tellus, vitae feugiat urna diam nec sem. Cras sagittis odio nulla, maximus faucibus tortor auctor at. Integer sit amet diam gravida massa consequat ultricies. Sed posuere lorem a libero pharetra efficitur vel interdum tortor. Sed a urna a dui suscipit cursus. Cras id arcu vel felis ullamcorper varius quis in arcu. Donec varius enim nec interdum elementum.
