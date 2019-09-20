@@ -5,8 +5,6 @@
 layout: default
 ---
 
-<!--<details open markdown="1">
-  <summary>À propos</summary> -->
 # À propos
 
 Je suis actuellement en post-doctorat au Centre de Mathématiques Appliquées de l'École Polytechnique ([CMAP](https://portail.polytechnique.edu/cmap/fr)) dans le cadre du projet [RheoSuNN](http://www.cmap.polytechnique.fr/~lefebvre/RheoSuNN/), qui a pour objectif l'étude de la rhéologie de suspensions denses de particules rigides immergées dans un fluide à faible nombre de Reynolds.
@@ -17,11 +15,6 @@ fabien.vergnet[at]polytechnique.edu
 ## Thèse de doctorat
 J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.math.u-psud.fr)) qui porte sur la modélisation, l'analyse mathématique et la simulation numérique de structures actives dans un fluide de Stokes. Ce travail a été réalisé sous la direction d'[Astrid Decoene](http://www.math.u-psud.fr/~decoene/), de [Sébastien Martin](http://w3.mi.parisdescartes.fr/~smarti02/) et de [Bertrand Maury](http://www.math.u-psud.fr/~maury/).
 [[Thèse]](https://tel.archives-ouvertes.fr/tel-02194265v1)
-
-<!-- </details>
-
-<details markdown="1">
-  <summary>Recherche</summary> -->
 
 # Recherche
 
@@ -65,11 +58,6 @@ J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire 
 - VIème Colloque EDP-Normandie, Caen, 25-26 octobre 2017.
 - 43ème Congrès National d'Analyse Numérique, Obernay, 9-13 mai 2016.
 
-<!-- </details>
-
-<details markdown="1">
-  <summary>Enseignement</summary> -->
-
 # Enseignement
 
 **À l'UFR de Mathématiques et d'Informatique de l'Université Paris-Descartes \| 2018-19**
@@ -87,5 +75,3 @@ J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire 
 
 **Encadrement d'étudiants**
 - Tomas Fullana (L3). Numerical simulations of fluid-structure problems. Application to the mocuciliary transport. (Juin-Juillet 2017)
-
-<!-- </details> -->
