@@ -28,7 +28,7 @@ J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire 
 
 **Pré-publications**
 
-- Astrid Decoene, Sébastien Martin, Fabien Vergnet. A smooth extension method for transmission problems. Soumis au *Journal of Computational Physics*. [[Preprint]](https://hal.archives-ouvertes.fr/hal-02146271v1)
+- Astrid Decoene, Sébastien Martin, Fabien Vergnet. A smooth extension method for transmission problems. Soumis au *Journal of Computational Physics*. [[Preprint]](https://hal.archives-ouvertes.fr/hal-02146271v2)
 
 **Dans des journaux scientifiques**
 0. Pierre Degond, Sara Merino-Aceituno, Fabien Vergnet, Hui Yu. Coupled Self-Organized Hydrodynamics and Stokes models for suspensions of active particles. *Journal of Mathematical Fluid Mechanics* 21:6 (2019). [[Article]](https://rdcu.be/bjyha) [[Preprint]](https://arxiv.org/pdf/1706.05666.pdf)
