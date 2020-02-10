@@ -42,6 +42,9 @@ J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire 
 
 **Présentations orales**
 
+- Séminaire équations aux dérivées partielles, IRMA, Strasbourg, 11 février 2020.
+- Groupe de travail Bio-Maths, Institut Denis Poisson, Orléans, 28 novembre 2019.
+- Séminaire du CMAP, CMAP, École Polytechnique, Palaiseau, 19 novembre 2019.
 - 9e Congrès SMAI, Guidel Plages, 13-17 mai 2019.
 - 18e Forum des Jeunes Mathématiciennes et Mathématiciens, Orléans, 28-30 novembre 2018.
 - Séminaire d'Analyse Numérique et Calcul Scientifique, LMB, Université de Franche-Comté, Besançon, 15 mars 2018.
