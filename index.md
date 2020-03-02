@@ -20,7 +20,7 @@ J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire 
 
 ## Thèmes de recherche
 
-- Equations aux dérivées partielle et calcul scientifique
+- Équations aux dérivées partielles et calcul scientifique
 - Problèmes d'interraction fluide-structures.
 - Étude de structures biologiques actives.
 - Méthodes de domaine fictif pour la résolution d'EDP.
