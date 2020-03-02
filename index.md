@@ -28,15 +28,16 @@ J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire 
 
 **Pré-publications**
 
-- Astrid Decoene, Sébastien Martin, Fabien Vergnet. A smooth extension method for transmission problems. Soumis au *Journal of Computational Physics*. [[Preprint]](https://hal.archives-ouvertes.fr/hal-02146271v2)
+- Astrid Decoene, Sébastien Martin, Fabien Vergnet. A smooth extension method for transmission problems. Soumis au *Journal of Computational Physics*. Pré-publication, 34 pages (2019). [[Preprint]](https://hal.archives-ouvertes.fr/hal-02146271v2)
+- Céline Grandmont, Fabien Vergnet. Existence and uniqueness for a quasi-static fluid-structure interaction problem with an active structure. Pré-publication, 25 pages (2020). [[Preprint]](https://hal.archives-ouvertes.fr/hal-02493384v1)
+- Astrid Decoene, Sébastien Martin, Fabien Vergnet. A continuum active structure model for the interaction of cilia with a viscous fluid. Pré-publication, 29 pages (2020). [[Preprint]](https://hal.archives-ouvertes.fr/hal-02493513v1)
 
 **Dans des journaux scientifiques**
 0. Pierre Degond, Sara Merino-Aceituno, Fabien Vergnet, Hui Yu. Coupled Self-Organized Hydrodynamics and Stokes models for suspensions of active particles. *Journal of Mathematical Fluid Mechanics* 21:6 (2019). [[Article]](https://rdcu.be/bjyha) [[Preprint]](https://arxiv.org/pdf/1706.05666.pdf)
 {: reversed="reversed"}
 
 **Travaux en cours**
-- Céline Grandmont, Fabien Vergnet. Existence and uniqueness for a quasi-static fluid-structure interaction problem with an active structure.
-- Astrid Decoene, Sébastien Martin, Fabien Vergnet. A continuum active structure model for the interaction of cilia with a viscous fluid.
+- Sergio Chibbaro, Astrid Decoene, Sébastien Martin, Fabien Vergnet. Irreversibility and chaos in biological active matter
 
 ## Éxposés scientifiques
 
