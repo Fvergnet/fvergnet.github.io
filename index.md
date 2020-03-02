@@ -60,6 +60,12 @@ J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire 
 - VIème Colloque EDP-Normandie, Caen, 25-26 octobre 2017.
 - 43ème Congrès National d'Analyse Numérique, Obernay, 9-13 mai 2016.
 
+## Codes de calcul scientifique
+
+[[CAFES]](https://github.com/gouarin/cafes)
+Cartesian Finite Element Solver
+Code de calcul écrit en C++ et utilisant la librairie PETSc pour la simulation d'écoulements de fluides à faible nombre de Reynolds contenant des particules rigides.
+
 # Enseignement
 
 **À l'UFR de Mathématiques et d'Informatique de l'Université Paris-Descartes \| 2018-19**
