@@ -62,8 +62,8 @@ J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire 
 
 ## Codes de calcul scientifique
 
-[[CAFES]](https://github.com/gouarin/cafes)
-Cartesian Finite Element Solver
+[[CAFES]](https://github.com/gouarin/cafes) Cartesian Finite Element Solver
+
 Code de calcul écrit en C++ et utilisant la librairie PETSc pour la simulation d'écoulements de fluides à faible nombre de Reynolds contenant des particules rigides.
 
 # Enseignement
