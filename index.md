@@ -7,10 +7,17 @@ layout: default
 
 # À propos
 
-Je suis actuellement en post-doctorat au Centre de Mathématiques Appliquées de l'École Polytechnique ([CMAP](https://portail.polytechnique.edu/cmap/fr)) dans le cadre du projet [RheoSuNN](http://www.cmap.polytechnique.fr/~lefebvre/RheoSuNN/), qui a pour objectif l'étude de la rhéologie de suspensions denses de particules rigides immergées dans un fluide à faible nombre de Reynolds.
-
-**Contact :**
-fabien.vergnet[at]polytechnique.edu
+<div style="width: 100%; display: table;">
+    <div style="display: table-row;">
+        <div style="display: table-cell; vertical-align: middle;"> 
+          Je suis actuellement en post-doctorat au Centre de Mathématiques Appliquées de l'École Polytechnique (<a href="https://portail.polytechnique.edu/cmap/fr">CMAP</a>) dans le cadre du projet <a href="http://www.cmap.polytechnique.fr/~lefebvre/RheoSuNN/">RheoSuNN</a>, qui a pour objectif l'étude de la rhéologie de suspensions denses de particules rigides immergées dans un fluide à faible nombre de Reynolds.
+          <br>
+          <b>Contact :</b>
+          fabien.vergnet[at]polytechnique.edu
+        </div>
+        <div style="width: 200px; display: table-cell; padding-left: 30px;"> <img src="assets/fabien.jpg"> </div>
+    </div>
+</div>
 
 ## Thèse de doctorat
 J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.math.u-psud.fr)) qui porte sur la modélisation, l'analyse mathématique et la simulation numérique de structures actives dans un fluide de Stokes. Ce travail a été réalisé sous la direction d'[Astrid Decoene](http://www.math.u-psud.fr/~decoene/), de [Sébastien Martin](http://w3.mi.parisdescartes.fr/~smarti02/) et de [Bertrand Maury](http://www.math.u-psud.fr/~maury/).
