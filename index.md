@@ -15,7 +15,7 @@ layout: default
           <b>Contact :</b>
           fabien.vergnet[at]polytechnique.edu
         </div>
-        <div style="width: 200px; display: table-cell; padding-left: 30px;"> <img src="assets/fabien.jpg"> </div>
+        <div style="width: 200px; display: table-cell; padding-left: 30px; min-width: 150px;"> <img src="assets/fabien.jpg"> </div>
     </div>
 </div>
 
@@ -36,7 +36,7 @@ J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire 
 
 **Pré-publications**
 
-- Astrid Decoene, Sébastien Martin, Fabien Vergnet. A smooth extension method for transmission problems. Soumis au *Journal of Computational Physics*. Pré-publication, 34 pages (2019). [[Preprint]](https://hal.archives-ouvertes.fr/hal-02146271v2)
+- Astrid Decoene, Sébastien Martin, Fabien Vergnet. A smooth extension method for transmission problems. Pré-publication, 34 pages (2019). [[Preprint]](https://hal.archives-ouvertes.fr/hal-02146271v2)
 - Céline Grandmont, Fabien Vergnet. Existence and uniqueness for a quasi-static fluid-structure interaction problem with an active structure. Pré-publication, 25 pages (2020). [[Preprint]](https://hal.archives-ouvertes.fr/hal-02493384v1)
 - Astrid Decoene, Sébastien Martin, Fabien Vergnet. A continuum active structure model for the interaction of cilia with a viscous fluid. Pré-publication, 29 pages (2020). [[Preprint]](https://hal.archives-ouvertes.fr/hal-02493513v1)
 
