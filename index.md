@@ -48,9 +48,6 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 0. Pierre Degond, Sara Merino-Aceituno, Fabien Vergnet, Hui Yu. Coupled Self-Organized Hydrodynamics and Stokes models for suspensions of active particles. *Journal of Mathematical Fluid Mechanics* 21:6 (2019). [[Article]](https://rdcu.be/bjyha) [[Preprint]](https://arxiv.org/pdf/1706.05666.pdf)
 {: reversed="reversed"}
 
-**Travaux en cours**
-- Aline Lefebvre-Lepot, Flore Nabet, Fabien Vergnet. Lubrication correction for numerical simulations of rigid particles in Stokes flow with a fictitious domain approach. 
-
 ## Éxposés scientifiques
 
 **Présentations orales**
