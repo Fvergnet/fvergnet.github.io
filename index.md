@@ -20,7 +20,7 @@ layout: default
 </div>
 
 ## Thèse de doctorat [[Tel]](https://tel.archives-ouvertes.fr/tel-02194265v1)
-J'ai récemment soutenu une thèse en mathématiques appliquées au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.math.u-psud.fr)) qui porte sur la modélisation, l'analyse mathématique et la simulation numérique de structures actives dans un fluide de Stokes. Ce travail a été réalisé sous la direction d'[Astrid Decoene](http://www.math.u-psud.fr/~decoene/), de [Sébastien Martin](http://w3.mi.parisdescartes.fr/~smarti02/) et de [Bertrand Maury](http://www.math.u-psud.fr/~maury/).
+J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.math.u-psud.fr)) qui porte sur la modélisation, l'analyse mathématique et la simulation numérique de structures actives dans un fluide de Stokes. Ce travail a été réalisé sous la direction d'[Astrid Decoene](http://www.math.u-psud.fr/~decoene/), de [Sébastien Martin](http://w3.mi.parisdescartes.fr/~smarti02/) et de [Bertrand Maury](http://www.math.u-psud.fr/~maury/).
 
 
 # Recherche
