@@ -44,9 +44,9 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 
 
 **Dans des journaux scientifiques**
+0. Céline Grandmont, Fabien Vergnet. Existence and uniqueness for a quasi-static fluid-structure interaction problem with an active structure. Accepté dans *Journal of Mathematical Fluid Mechanics* (2020). [[Preprint]](https://hal.archives-ouvertes.fr/hal-02493384v1)
 0. Pierre Degond, Sara Merino-Aceituno, Fabien Vergnet, Hui Yu. Coupled Self-Organized Hydrodynamics and Stokes models for suspensions of active particles. *Journal of Mathematical Fluid Mechanics* 21:6 (2019). [[Article]](https://rdcu.be/bjyha) [[Preprint]](https://arxiv.org/pdf/1706.05666.pdf)
 {: reversed="reversed"}
-0. Céline Grandmont, Fabien Vergnet. Existence and uniqueness for a quasi-static fluid-structure interaction problem with an active structure. Accepté dans *Journal of Mathematical Fluid Mechanics* (2020). [[Preprint]](https://hal.archives-ouvertes.fr/hal-02493384v1)
 
 ## Éxposés scientifiques
 
