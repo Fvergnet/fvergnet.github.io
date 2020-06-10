@@ -63,7 +63,7 @@ Accepté (sous condition de corrections mineures) dans
 *Journal of Mathematical Fluid Mechanics* 21:6 (2019). [[Article]](https://rdcu.be/bjyha) [[arXiv]](https://arxiv.org/pdf/1706.05666.pdf)
 {: reversed="reversed"}
 
-## Éxposés scientifiques
+## Exposés scientifiques
 
 **Présentations orales**
 
