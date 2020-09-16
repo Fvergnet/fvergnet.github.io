@@ -34,6 +34,8 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 
 ## [Quelques simulations numériques](simus.html)
 
+[](microstructures.html)
+
 ## Publications scientifiques
 
 **Pré-publications**
