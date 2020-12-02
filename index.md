@@ -10,10 +10,10 @@ layout: default
 <div style="width: 100%; display: table;">
     <div style="display: table-row;">
         <div style="display: table-cell; vertical-align: middle;"> 
-          Je suis actuellement en post-doctorat au Centre de Mathématiques Appliquées de l'École Polytechnique (<a href="https://portail.polytechnique.edu/cmap/fr">CMAP</a>) dans le cadre du projet <a href="http://www.cmap.polytechnique.fr/~lefebvre/RheoSuNN/">RheoSuNN</a>, qui a pour objectif l'étude de la rhéologie de suspensions denses de particules rigides immergées dans un fluide à faible nombre de Reynolds.
+          Je suis actuellement Maître de conférences à <a href="https://www.sorbonne-universite.fr/">Sorbonne Université</a> et membre du laboratoire Jacques-Louis Lions (<a href="https://www.ljll.math.upmc.fr/">LJLL</a>). Je travaille principalement sur des problèmes d'interaction fluide-structure avec des applications en sciences du vivant et sur le développement de méthodes numériques pour la résolution de problèmes aux interfaces.
           <br>
           <b>Contact :</b>
-          fabien.vergnet[at]polytechnique.edu
+          fabien.vergnet[at]sorbonne-universite.fr
         </div>
         <div style="width: 200px; display: table-cell; padding-left: 30px; min-width: 150px;"> <img src="assets/fabien.jpg"> </div>
     </div>
@@ -27,14 +27,10 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 
 ## Thèmes de recherche
 
-- Équations aux dérivées partielles.
+- Modélisation en sciences du vivant.
 - Analyse de problèmes d'interaction fluide-structures.
-- Méthodes de domaine fictif pour la résolution d'EDP.
-- Application à l'étude de structures biologiques actives.
-
-## [Quelques simulations numériques](simus.html)
-
-[](microstructures.html)
+- Développement de méthodes numériques pour la résolution d'EDP.
+- Calcul scientifique.
 
 ## Publications scientifiques
 
@@ -42,7 +38,7 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 
 * Céline Grandmont, Fabien Vergnet.  
 **Existence and uniqueness for a quasi-static fluid-structure interaction problem with an active structure**  
-Accepté (sous condition de corrections mineures) dans  
+Accepté dans  
 *Journal of Mathematical Fluid Mechanics* (2020). [[Hal]](https://hal.archives-ouvertes.fr/hal-02493384v1) 
 
 * Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
@@ -69,6 +65,7 @@ Accepté (sous condition de corrections mineures) dans
 
 **Présentations orales**
 
+- Séminaire de l'équipe COMMEDIA de l'INRIA Paris, en visioconférence, 23 novembre 2020.
 - Séminaire équations aux dérivées partielles, IRMA, Strasbourg, 11 février 2020.
 - Groupe de travail Bio-Maths, Institut Denis Poisson, Orléans, 28 novembre 2019.
 - Séminaire du CMAP, CMAP, École Polytechnique, Palaiseau, 19 novembre 2019.
@@ -92,6 +89,9 @@ Accepté (sous condition de corrections mineures) dans
 - [[CAFES]](https://github.com/gouarin/cafes) Cartesian Finite Element Solver. Code de calcul écrit en C++ et utilisant la librairie PETSc pour la simulation d'écoulements de fluides à faible nombre de Reynolds contenant des particules rigides.
 
 # Enseignement
+
+**À Polytech Sorbonne \| 2020-21**
+- Analyse numérique et EDO. Parcours Mathématiques Appliquées et Informatique. 1ère année. Cours, TD et TP
 
 **À l'UFR de Mathématiques et d'Informatique de l'Université Paris-Descartes \| 2018-19**
 - Phénomène de transport en biologie. M2 MM. Cours, TD et TP : 2018-19 (18,5h)
