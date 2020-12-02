@@ -27,7 +27,7 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 
 ## Thèmes de recherche
 
-- Modélisation en sciences du vivant.
+- Modélisation en sciences du vivant et physique.
 - Analyse de problèmes d'interaction fluide-structures.
 - Développement de méthodes numériques pour la résolution d'EDP.
 - Calcul scientifique.
