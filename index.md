@@ -44,10 +44,6 @@ Accepté dans *Journal of Mathematical Fluid Mechanics* (2020). [[Hal]](https://
 **A continuum active structure model for the interaction of cilia with a viscous fluid.**  
 *Pré-publication, 29 pages* (2020). [[Hal]](https://hal.archives-ouvertes.fr/hal-02493513v1)
 
-* Sergio Chibbaro, Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
-**Irreversibility and chaos in active particles suspensions.**  
-*Pré-publication, 13 pages* (2020). [[arXiv]](https://arxiv.org/abs/2005.10613)
-
 * Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
 **A smooth extension method for transmission problems.**  
 *Pré-publication, 34 pages* (2019). [[Hal]](https://hal.archives-ouvertes.fr/hal-02146271v2)
@@ -58,7 +54,15 @@ Accepté dans *Journal of Mathematical Fluid Mechanics* (2020). [[Hal]](https://
 0. Pierre Degond, Sara Merino-Aceituno, Fabien Vergnet, Hui Yu.  
 **Coupled Self-Organized Hydrodynamics and Stokes models for suspensions of active particles.**  
 *Journal of Mathematical Fluid Mechanics* 21:6 (2019). [[Article]](https://rdcu.be/bjyha) [[arXiv]](https://arxiv.org/pdf/1706.05666.pdf)
+
+0. Sergio Chibbaro, Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
+**Irreversibility and chaos in active particles suspensions.**  
+*Physical Review Fluids* 6:1 (2021). [[Article]](https://doi.org/10.1103/PhysRevFluids.6.013104) [[arXiv]](https://arxiv.org/abs/2005.10613)
 {: reversed="reversed"}
+
+
+
+https://arxiv.org/abs/2005.10613
 
 ## Exposés scientifiques
 
