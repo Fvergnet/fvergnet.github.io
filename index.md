@@ -50,14 +50,14 @@ Accepté dans *Journal of Mathematical Fluid Mechanics* (2020). [[Hal]](https://
 
 
 **Dans des journaux scientifiques avec comité de lecture**
- 
-0. Pierre Degond, Sara Merino-Aceituno, Fabien Vergnet, Hui Yu.  
-**Coupled Self-Organized Hydrodynamics and Stokes models for suspensions of active particles.**  
-*Journal of Mathematical Fluid Mechanics* 21:6 (2019). [[Article]](https://rdcu.be/bjyha) [[arXiv]](https://arxiv.org/pdf/1706.05666.pdf)
 
 0. Sergio Chibbaro, Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
 **Irreversibility and chaos in active particles suspensions.**  
 *Physical Review Fluids* 6:1 (2021). [[Article]](https://doi.org/10.1103/PhysRevFluids.6.013104) [[arXiv]](https://arxiv.org/abs/2005.10613)
+ 
+0. Pierre Degond, Sara Merino-Aceituno, Fabien Vergnet, Hui Yu.  
+**Coupled Self-Organized Hydrodynamics and Stokes models for suspensions of active particles.**  
+*Journal of Mathematical Fluid Mechanics* 21:6 (2019). [[Article]](https://rdcu.be/bjyha) [[arXiv]](https://arxiv.org/pdf/1706.05666.pdf)
 {: reversed="reversed"}
 
 
