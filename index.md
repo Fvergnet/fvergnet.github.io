@@ -64,6 +64,7 @@ Accepté dans *Journal of Mathematical Fluid Mechanics* (2020). [[Hal]](https://
 
 **Présentations orales**
 
+- Séminaire du laboratoire Jacques-Louis Lions, en visioconférence, 18 décembre 2020.
 - Séminaire de l'équipe COMMEDIA de l'INRIA Paris, en visioconférence, 23 novembre 2020.
 - Séminaire équations aux dérivées partielles, IRMA, Strasbourg, 11 février 2020.
 - Groupe de travail Bio-Maths, Institut Denis Poisson, Orléans, 28 novembre 2019.
