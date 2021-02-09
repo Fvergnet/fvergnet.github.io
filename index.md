@@ -60,10 +60,6 @@ Accepté dans *Journal of Mathematical Fluid Mechanics* (2020). [[Hal]](https://
 *Journal of Mathematical Fluid Mechanics* 21:6 (2019). [[Article]](https://rdcu.be/bjyha) [[arXiv]](https://arxiv.org/pdf/1706.05666.pdf)
 {: reversed="reversed"}
 
-
-
-https://arxiv.org/abs/2005.10613
-
 ## Exposés scientifiques
 
 **Présentations orales**
