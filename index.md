@@ -38,15 +38,15 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 
 * Céline Grandmont, Fabien Vergnet.  
 **Existence and uniqueness for a quasi-static fluid-structure interaction problem with an active structure**  
-Accepté dans *Journal of Mathematical Fluid Mechanics* (2020). [[Hal]](https://hal.archives-ouvertes.fr/hal-02493384v1) 
+Accepté dans *Journal of Mathematical Fluid Mechanics*. [[Hal]](https://hal.archives-ouvertes.fr/hal-02493384v1) 
 
 * Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
 **A continuum active structure model for the interaction of cilia with a viscous fluid.**  
-*Pré-publication, 29 pages* (2020). [[Hal]](https://hal.archives-ouvertes.fr/hal-02493513v1)
+*Pré-publication, 29 pages*. [[Hal]](https://hal.archives-ouvertes.fr/hal-02493513v1)
 
 * Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
 **A smooth extension method for transmission problems.**  
-*Pré-publication, 34 pages* (2019). [[Hal]](https://hal.archives-ouvertes.fr/hal-02146271v2)
+*Pré-publication, 34 pages*. [[Hal]](https://hal.archives-ouvertes.fr/hal-02146271v2)
 
 
 **Dans des journaux scientifiques avec comité de lecture**
