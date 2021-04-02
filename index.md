@@ -10,7 +10,7 @@ layout: default
 <div style="width: 100%; display: table;">
     <div style="display: table-row;">
         <div style="display: table-cell; vertical-align: middle;"> 
-          Je suis actuellement Maître de conférences à <a href="https://www.sorbonne-universite.fr/">Sorbonne Université</a> et membre du laboratoire Jacques-Louis Lions (<a href="https://www.ljll.math.upmc.fr/">LJLL</a>). Je travaille principalement sur des problèmes d'interaction fluide-structure avec des applications en sciences du vivant et sur le développement de méthodes numériques pour la résolution de problèmes aux interfaces.
+          Je suis actuellement Maître de conférences à <a href="https://www.sorbonne-universite.fr/">Sorbonne Université</a> et membre du laboratoire Jacques-Louis Lions (<a href="https://www.ljll.math.upmc.fr/">LJLL</a>). Je suis également membre de l'équipe-projet <a href="https://team.inria.fr/commedia/">COMMEDIA</a> de l'Inria Paris. Je travaille principalement sur des problèmes d'interaction fluide-structure avec des applications en sciences du vivant et sur le développement de méthodes numériques pour la résolution de problèmes aux interfaces.
           <br>
           <b>Contact :</b>
           fabien.vergnet[at]sorbonne-universite.fr
@@ -36,10 +36,6 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 
 **Pré-publications**
 
-* Céline Grandmont, Fabien Vergnet.  
-**Existence and uniqueness for a quasi-static fluid-structure interaction problem with an active structure**  
-Accepté dans *Journal of Mathematical Fluid Mechanics*. [[Hal]](https://hal.archives-ouvertes.fr/hal-02493384v1) 
-
 * Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
 **A continuum active structure model for the interaction of cilia with a viscous fluid.**  
 *Pré-publication, 29 pages*. [[Hal]](https://hal.archives-ouvertes.fr/hal-02493513v1)
@@ -50,6 +46,10 @@ Accepté dans *Journal of Mathematical Fluid Mechanics*. [[Hal]](https://hal.arc
 
 
 **Dans des journaux scientifiques avec comité de lecture**
+
+0. Céline Grandmont, Fabien Vergnet.  
+**Existence and uniqueness for a quasi-static fluid-structure interaction problem with an active structure**  
+*Journal of Mathematical Fluid Mechanics* 23:45 (2021). [[Article]](https://doi.org/10.1007/s00021-020-00552-0) [[Hal]](https://hal.archives-ouvertes.fr/hal-02493384v1) 
 
 0. Sergio Chibbaro, Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
 **Irreversibility and chaos in active particles suspensions.**  
