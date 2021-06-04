@@ -88,7 +88,7 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 ## Codes de calcul scientifique
 
 - [[CAFES]](https://github.com/gouarin/cafes) Cartesian Finite Element Solver. Code de calcul écrit en C++ et utilisant la librairie PETSc pour la simulation d'écoulements de fluides à faible nombre de Reynolds contenant des particules rigides.
-- [[fsi]](https://plmlab.math.cnrs.fr/fabien.vergnet/fsi). Résolution de problèmes d'interaction fluide-structure avec FEniCS.
+- [[fsi]](https://plmlab.math.cnrs.fr/fabien.vergnet/fsi) Résolution de problèmes d'interaction fluide-structure avec FEniCS.
 
 # Enseignement
 
