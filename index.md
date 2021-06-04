@@ -28,7 +28,7 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 ## Thèmes de recherche
 
 - Modélisation en sciences du vivant et physique.
-- Analyse de problèmes d'interaction fluide-structures.
+- Analyse de problèmes d'interaction fluide-structure.
 - Développement de méthodes numériques pour la résolution d'EDP.
 - Calcul scientifique.
 
@@ -64,6 +64,7 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 
 **Présentations orales**
 
+- Séminaire de l'équipe ACSIOM, Institut Montpelliérain Alexander Grothendieck, en visioconférence, 8 juin 2021.
 - Séminaire du laboratoire Jacques-Louis Lions, en visioconférence, 18 décembre 2020.
 - Séminaire de l'équipe COMMEDIA de l'INRIA Paris, en visioconférence, 23 novembre 2020.
 - Séminaire équations aux dérivées partielles, IRMA, Strasbourg, 11 février 2020.
@@ -87,6 +88,7 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 ## Codes de calcul scientifique
 
 - [[CAFES]](https://github.com/gouarin/cafes) Cartesian Finite Element Solver. Code de calcul écrit en C++ et utilisant la librairie PETSc pour la simulation d'écoulements de fluides à faible nombre de Reynolds contenant des particules rigides.
+- [[fsi]](https://plmlab.math.cnrs.fr/fabien.vergnet/fsi). Résolution de problèmes d'interaction fluide-structure avec FEniCS.
 
 # Enseignement
 
@@ -101,12 +103,12 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 - Mesure et intégration. L3 mathématiques. TD : 2018-19 (36h)
 - Algèbre linéaire. L2 mathématiques. TD : 2018-19 (36h)
 
-
 **À L'UFR des Sciences de l'Université Paris-Sud | 2015-18**
 - Algèbre linéraire. L3 mathématiques. TP : 2015-16 (16h) \| 2016-17 (16h) \| 2017-18 (22h)
 - Introduction à Python. L3 mathématiques. TP : 2015-16 (12h) \| 2016-17 (12h)
 - Calcul scientifique. L3 mathématiques. TP : 2015-16 (18h) \| 2016-17 (18h)
 - Introduction à la simulation numérique. L2 mathématiques. Cours et TP : 2015-16 (15h) \| 2016-17 (15h) \| 2017-18 (42h)
 
-**Encadrement d'étudiants**
+**Encadrement de stages et projets**
 - Tomas Fullana (L3). Numerical simulations of fluid-structure problems. Application to the mocuciliary transport. (Juin-Juillet 2017)
+- Dumitru Pavel (L3). Autour de la méthode des éléments finis. (Juin-Juillet 2021)
