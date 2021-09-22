@@ -18,9 +18,10 @@ layout: default
     </div>
 </div>
 **Contact :**<br>
-4 place Jussieu, 75005 Paris<br>
+Tour 16-26, 3e étage<br>
 Bureau 16-26-301<br>
-fabien[dot]vergnet(at)sorbonne-universite{dot}fr
+4 place Jussieu, 75005 Paris<br>
+fabien.vergnet(chez)sorbonne-universite.fr
 
 ## Thèse de doctorat [[Tel]](https://tel.archives-ouvertes.fr/tel-02194265v1)
 J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.math.u-psud.fr)) qui porte sur la modélisation, l'analyse mathématique et la simulation numérique de structures actives dans un fluide de Stokes. Ce travail a été réalisé sous la direction d'[Astrid Decoene](http://www.math.u-psud.fr/~decoene/), de [Sébastien Martin](http://smartin.perso.math.cnrs.fr/) et de [Bertrand Maury](http://www.math.u-psud.fr/~maury/).
