@@ -64,7 +64,8 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 
 **Présentations orales**
 
-- Séminaire de l'équipe COMMEDIA de l'INRIA Paris, en visioconférence, 17 juin 2020.
+- Séminaire de Modélisation et Calcul Scientifique, LAGA, Villetaneuse, 24 septembre 2021.
+- Séminaire de l'équipe COMMEDIA de l'INRIA Paris, en visioconférence, 17 juin 2021.
 - Séminaire de l'équipe ACSIOM, Institut Montpelliérain Alexander Grothendieck, en visioconférence, 8 juin 2021.
 - Séminaire du laboratoire Jacques-Louis Lions, en visioconférence, 18 décembre 2020.
 - Séminaire de l'équipe COMMEDIA de l'INRIA Paris, en visioconférence, 23 novembre 2020.
