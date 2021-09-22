@@ -17,9 +17,9 @@ layout: default
         <div style="width: 200px; display: table-cell; padding-left: 30px; min-width: 150px;"> <img src="assets/fabien.jpg"> </div>
     </div>
 </div>
-**Contact :**
-4 place Jussieu, 75005 Paris
-Bureau 16-26-301
+**Contact :**<br>
+4 place Jussieu, 75005 Paris<br>
+Bureau 16-26-301<br>
 fabien[dot]vergnet(at)sorbonne-universite{dot}fr
 
 ## Thèse de doctorat [[Tel]](https://tel.archives-ouvertes.fr/tel-02194265v1)
