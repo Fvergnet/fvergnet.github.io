@@ -12,12 +12,15 @@ layout: default
         <div style="display: table-cell; vertical-align: middle;"> 
           Je suis actuellement Maître de conférences à <a href="https://www.sorbonne-universite.fr/">Sorbonne Université</a> et membre du laboratoire Jacques-Louis Lions (<a href="https://www.ljll.math.upmc.fr/">LJLL</a>). Je suis également membre de l'équipe-projet <a href="https://team.inria.fr/commedia/">COMMEDIA</a> de l'Inria Paris. Je travaille principalement sur des problèmes d'interaction fluide-structure avec des applications en sciences du vivant et sur le développement de méthodes numériques pour la résolution de problèmes aux interfaces.
           <br>
-          <b>Contact :</b>
-          fabien.vergnet[at]sorbonne-universite.fr
+          
         </div>
         <div style="width: 200px; display: table-cell; padding-left: 30px; min-width: 150px;"> <img src="assets/fabien.jpg"> </div>
     </div>
 </div>
+**Contact :**
+4 place Jussieu, 75005 Paris
+Bureau 16-26-301
+fabien[dot]vergnet(at)sorbonne-universite{dot}fr
 
 ## Thèse de doctorat [[Tel]](https://tel.archives-ouvertes.fr/tel-02194265v1)
 J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.math.u-psud.fr)) qui porte sur la modélisation, l'analyse mathématique et la simulation numérique de structures actives dans un fluide de Stokes. Ce travail a été réalisé sous la direction d'[Astrid Decoene](http://www.math.u-psud.fr/~decoene/), de [Sébastien Martin](http://smartin.perso.math.cnrs.fr/) et de [Bertrand Maury](http://www.math.u-psud.fr/~maury/).
