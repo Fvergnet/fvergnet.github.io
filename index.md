@@ -92,6 +92,18 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 - VIème Colloque EDP-Normandie, Caen, 25-26 octobre 2017.
 - 43ème Congrès National d'Analyse Numérique, Obernay, 9-13 mai 2016.
 
+## Encadrement de thèses
+
+- **Marguerite Champion**
+  + Modeling, analysis and simulation of fluid-structure-contact interaction
+  + Co-encadrement : [Miguel Fernández](https://team.inria.fr/commedia/fernandez/), [Céline Grandmont](https://team.inria.fr/commedia/grandmont/) et [Marina Vidrascu](https://team.inria.fr/commedia/vidrascu/).
+  + Thèse de Sorbonne Université : 2021-...
+
+- **Daniele Corti**
+  + Modeling and numerical simulation of the mitral apparatus
+  + Co-encadrement : [Guillaume Delay](https://www.ljll.math.upmc.fr/delay/), [Miguel Fernández](https://team.inria.fr/commedia/fernandez/) et [Marina Vidrascu](https://team.inria.fr/commedia/vidrascu/).
+  + Thèse de Sorbonne Université : 2021-...
+
 ## Codes de calcul scientifique
 
 - [[CAFES]](https://github.com/gouarin/cafes) Cartesian Finite Element Solver. Code de calcul écrit en C++ et utilisant la librairie PETSc pour la simulation d'écoulements de fluides à faible nombre de Reynolds contenant des particules rigides.
@@ -100,11 +112,11 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 # Enseignement
 
 **À Polytech Sorbonne**
-- Analyse numérique et EDO. Parcours Mathématiques Appliquées et Informatique. 1ère année. Cours, TD et TP. 2020-
-- Systèmes non linéaires et optimisation. Parcours Mathématiques Appliquées et Informatique. 1ère année. Cours, TD et TP. 2020-
-- Analyse de Fourier. Parcours Robotique. 1ère année. Cours. 2022-
-- Modélisation de systèmes dynamiques. Parcours Agroalimentaire. 1ère année. TP. 2021-
-- Équations différentielles. Cycle préparatoire (PEIP). 2ème année. TD. 2020-
+- Analyse numérique et EDO. Parcours Mathématiques Appliquées et Informatique. 1ère année. Cours, TD et TP. 2020-...
+- Systèmes non linéaires et optimisation. Parcours Mathématiques Appliquées et Informatique. 1ère année. Cours, TD et TP. 2020-...
+- Analyse de Fourier. Parcours Robotique. 1ère année. Cours. 2022-...
+- Modélisation de systèmes dynamiques. Parcours Agroalimentaire. 1ère année. TP. 2021-...
+- Équations différentielles. Cycle préparatoire (PEIP). 2ème année. TD. 2020-...
 
 **À l'UFR de Mathématiques et d'Informatique de l'Université Paris-Descartes \| 2018-19**
 - Phénomène de transport en biologie. M2 MM. Cours, TD et TP : 2018-19 (18,5h)
@@ -119,5 +131,6 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 - Introduction à la simulation numérique. L2 mathématiques. Cours et TP : 2015-16 (15h) \| 2016-17 (15h) \| 2017-18 (42h)
 
 **Encadrement de stages et projets**
-- Tomas Fullana (L3). Numerical simulations of fluid-structure problems. Application to the mocuciliary transport. (Juin-Juillet 2017)
-- Dumitru Pavel (L3). Autour de la méthode des éléments finis. (Juin-Juillet 2021)
+- Geremy Loachamín (M2). Reduced modeling of valve dynamics: application to the simulation of cardiac hemodynamics. De mars à août 2022.
+- Dumitru Pavel (L3). Autour de la méthode des éléments finis. De juin à juillet 2021.
+- Tomas Fullana (L3). Numerical simulations of fluid-structure problems. Application to the mocuciliary transport. De juin à juillet 2017.
