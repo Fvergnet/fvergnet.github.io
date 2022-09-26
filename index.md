@@ -99,10 +99,12 @@ J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathéma
 
 # Enseignement
 
-**À Polytech Sorbonne \| 2020-21**
-- Analyse numérique et EDO. Parcours Mathématiques Appliquées et Informatique. 1ère année. Cours, TD et TP.
-- Systèmes non linéaires et optimisation. Parcours Mathématiques Appliquées et Informatique. 1ère année. Cours, TD et TP.
-- Équations différentielles. Cycle préparatoire (PEIP). 2ème année. TD.
+**À Polytech Sorbonne**
+- Analyse numérique et EDO. Parcours Mathématiques Appliquées et Informatique. 1ère année. Cours, TD et TP. 2020-
+- Systèmes non linéaires et optimisation. Parcours Mathématiques Appliquées et Informatique. 1ère année. Cours, TD et TP. 2020-
+- Analyse de Fourier. Parcours Robotique. 1ère année. Cours. 2022-
+- Modélisation de systèmes dynamiques. Parcours Agroalimentaire. 1ère année. TP. 2021-
+- Équations différentielles. Cycle préparatoire (PEIP). 2ème année. TD. 2020-
 
 **À l'UFR de Mathématiques et d'Informatique de l'Université Paris-Descartes \| 2018-19**
 - Phénomène de transport en biologie. M2 MM. Cours, TD et TP : 2018-19 (18,5h)
